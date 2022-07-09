@@ -1,0 +1,61 @@
+.puContainer{
+    color:white;
+}
+
+.purtitle{
+    margin-left: 6%;
+}
+
+.cautionary{
+    font-size: 120%;
+    border: 4px aqua solid;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin: 2%;
+}
+
+.inputd{
+    font-size: 150%;
+    margin-top:3%;
+    margin-left:3%;
+    color:white;
+    background-color: black;
+    border: 4px aqua solid;
+    padding:3%;
+    border-radius: 5px;
+}
+
+.inputdt{
+    font-size: 150%;
+    margin-top:3%;
+    margin-left:3%;
+    color:white;
+    background-color: black;
+    border: 4px aqua solid;
+    padding:3%;
+    border-radius: 5px;
+}
+
+.sumbitB{
+    background-color: black;
+    border: 4px aqua solid;
+    border-radius: 5px;
+    color:white;
+    font-size: 150%;
+    font-weight: bold;
+    padding:3%;
+    margin-left:3%;
+    margin-top: 6%;
+}
+
+.sumbitB:hover{
+    background-color: aqua;
+    border: 4px aqua solid;
+    border-radius: 5px;
+    color:white;
+    font-size: 150%;
+    font-weight: bold;
+    padding:3%;
+    margin-left:3%;
+    margin-top: 6%;
+}

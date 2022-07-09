@@ -1,0 +1,39 @@
+.oc{
+    color:white;
+}
+
+.od{
+    color:white;
+    margin:3%;
+    border-top:2px aqua solid;
+    border-bottom:2px aqua solid;
+    padding:3%;
+    font-size: 150%;
+}
+
+.ols{
+    margin-left:3%;
+    margin-right: 3%;
+    margin-bottom:3%;
+    border-bottom: 2px aqua solid;
+}
+
+.clb{
+    background-color: black;
+    color:white;
+    font-size: 150%;
+    padding: 2%;
+    border:2px aqua solid;
+    border-radius:5px;
+    margin-bottom: 3%;
+}
+
+.clb:hover{
+    background-color: aqua;
+    color:white;
+    font-size: 150%;
+    padding: 2%;
+    border:2px aqua solid;
+    border-radius:5px;
+    margin-bottom: 3%;
+}

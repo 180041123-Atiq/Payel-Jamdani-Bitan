@@ -1,0 +1,105 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.navContainer{
+    border: 3px aqua solid;
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 10px;
+    padding:2%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    height: 10%;
+}
+
+.shopName{
+    color: white;
+    font-size: 170%;
+}
+
+.searchField{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-right: 3%;
+}
+
+.searchInput{
+    background-color: black;
+    border: 2px aqua solid;
+    outline: none;
+    color:white;
+    padding-top:4%;
+    padding-bottom:4%;
+    font-size: 100%;
+}
+
+.searchButton{
+    border: 3px aqua solid;
+    border-radius: 3px;
+    margin: 0%;
+    padding: 3%;
+    color: white;
+    margin-left: 4px;
+    font-size: 150%;
+}
+
+.searchButton:hover{
+    border: 3px aqua solid;
+    border-radius: 3px;
+    margin: 0%;
+    padding: 3%;
+    color: white;
+    margin-left: 4px;
+    font-size: 150%;
+    background-color: aqua;
+}
+
+.pageContainer{
+
+}
+
+.homeContainer{
+    height: 100%;
+}
+
+.productsContainer{
+    height: 100%;
+}
+
+.adminContainer{
+    height: 100%;
+}
+
+.backHome{
+    background-color: black;
+    border:3px aqua solid;
+    border-radius: 5px;
+    font-size: 200%;
+    padding:2%;
+    margin:3%;
+    color:white;
+}
+
+.backHome:hover{
+    background-color: aqua;
+    border:3px aqua solid;
+    border-radius: 5px;
+    font-size: 200%;
+    padding:2%;
+    margin:3%;
+    color:white;
+}
+
+.footer{
+    color:white;
+    border:4px aqua solid;
+    padding:2%;
+    margin:3%;
+}
